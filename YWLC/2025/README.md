@@ -2,11 +2,11 @@
 
 Hi students! Hope you're ready for some Python fun.
 
-## Difficulty Levels
+## Programming Experience
 
-1. **Beginner:** Start with [Turtle Adventure 1](YWLC/2025/Turtle Adventure 1.ipynb) and follow along.
-2. **Intermediate:** If you're speeding through "Turtle Adventure 1" without guidance, go ahead and try [Turtle Adventure 2](YWLC/2025/Turtle Adventure 2.ipynb) on your own.
-3. **Advanced:** "Turtle Adventure 2" is still too easy? Challenge yourself to build your own Hangman game in [Hangman Challenge](YWLC/2025/Hangman Challenge.ipynb).
+1. **Beginner:** Start with "Turtle Adventure 1" and follow along.
+2. **Intermediate:** If you're speeding through "Turtle Adventure 1" without guidance, go ahead and try "Turtle Adventure 2" on your own.
+3. **Advanced:** "Turtle Adventure 2" is still too easy? Challenge yourself to build your own Hangman game in "Hangman Challenge".
 
 ## Getting Started
 
